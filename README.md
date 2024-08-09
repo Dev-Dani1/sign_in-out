@@ -37,9 +37,10 @@ Ensure an active internet connection to load Bootstrap and other CDN resources.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📞 Contact
-Email: dannygideon.uk@gmail.com
 
-GitHub: Dev-Dani1
+   Email: dannygideon.uk@gmail.com
+
+   GitHub: Dev-Dani1
 
 
 
