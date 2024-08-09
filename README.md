@@ -38,9 +38,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 📞 Contact
 
-   Email: dannygideon.uk@gmail.com
-
-   GitHub: Dev-Dani1
+    **Email**: dannygideon.uk@gmail.com
+    
+    **GitHub**: [Dev-Dani1](https://github.com/Dev-Dani1)
 
 
 
