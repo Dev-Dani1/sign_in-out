@@ -1,8 +1,8 @@
-# 🔐  a SIMPLE SIGN IN & SIGN UP FORMS
+# 🔐  A SIMPLE SIGN IN & SIGN UP FORMS
 
 This repository contains simple and responsive Sign In and Sign Up forms built with HTML, CSS, and Bootstrap 4.
 
-## 🌟 FFEATURES
+## 🌟 FEATURES
 
 - **responsive header**: users can use the header without fear of crashing on a small screen size.
 - **Sign In Form**: Users can log into their accounts using their email and password.
